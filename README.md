@@ -14,16 +14,17 @@ He can take a simple quiz or Challenge a friend.<br>
 If he answers the question correctly, he gets some points and moves on to the next level the quicker he answers the more points he get.<br>
 If he answers the question with a wrong option we take use of AI model and give them a detailed explanation about the question and also give them the correct answer.<br>
 If user gives a wrong answer then his level is reiterated and a relatively easier question is asked.<br>
-At the end of the quiz
+At the end of the quiz based on the points users might get tokens.<br>
+If the user is challenging a friend they can both stake tokens and then at the end whoever has higher number of points wins the quiz and his wallet is credited with the tokens.<br>
 
 
 # Resources
 *To implement AI we will be using the GIZA SDK that uses Cairo For **Zk-ML** <br>
-![Giza video Tutorial](https://www.youtube.com/watch?v=t1Z5Anx_t6c)
-![Giza Github Repo](https://github.com/gizatechxyz)
-![Giza Official website](https://gizatech.xyz/)
+[Giza video Tutorial](https://www.youtube.com/watch?v=t1Z5Anx_t6c)
+[Giza Github Repo](https://github.com/gizatechxyz)
+[Giza Official website](https://gizatech.xyz/)
 
 
-*For connecting wallet we aill use Argent Telegram sdk.
-![Using Argent wallet with telegram](https://www.argent.xyz/blog/how-to-use-argent-telegram-wallet) 
+*For connecting wallet we aill use Argent Telegram sdk.<br>
+[Using Argent wallet with telegram](https://www.argent.xyz/blog/how-to-use-argent-telegram-wallet) 
 
