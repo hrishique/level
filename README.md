@@ -7,7 +7,7 @@ An app that will help people to learn cairo and also compete with there friends 
 
 # WorkFLOW
 
-User open telegram and runs the Bot.<br>
+User opens telegram and runs the Bot.<br>
 He is prompted to connect his wallet.<br>
 User is asked to select a level among ( Beginner, Intermediate, Advanced).<br>
 He can take a simple quiz or Challenge a friend.<br>
